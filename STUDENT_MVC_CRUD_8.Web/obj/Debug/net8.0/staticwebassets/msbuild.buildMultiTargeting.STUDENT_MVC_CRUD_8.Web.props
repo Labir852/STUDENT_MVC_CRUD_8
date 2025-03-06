@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\STUDENT_MVC_CRUD_8.Web.props" />
+</Project>

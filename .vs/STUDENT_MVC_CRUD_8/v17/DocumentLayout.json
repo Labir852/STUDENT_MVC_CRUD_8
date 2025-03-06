@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Miscellaneous\\ASPDOTNETPROJECTS\\STUDENT_MVC_CRUD_8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73C4C42A-242A-4B6D-9D0F-1F8D9DF79FE5}|STUDENT_MVC_CRUD_8.Web\\STUDENT_MVC_CRUD_8.Web.csproj|d:\\miscellaneous\\aspdotnetprojects\\student_mvc_crud_8\\student_mvc_crud_8.web\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73C4C42A-242A-4B6D-9D0F-1F8D9DF79FE5}|STUDENT_MVC_CRUD_8.Web\\STUDENT_MVC_CRUD_8.Web.csproj|solutionrelative:student_mvc_crud_8.web\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73C4C42A-242A-4B6D-9D0F-1F8D9DF79FE5}|STUDENT_MVC_CRUD_8.Web\\STUDENT_MVC_CRUD_8.Web.csproj|d:\\miscellaneous\\aspdotnetprojects\\student_mvc_crud_8\\student_mvc_crud_8.web\\views\\students\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73C4C42A-242A-4B6D-9D0F-1F8D9DF79FE5}|STUDENT_MVC_CRUD_8.Web\\STUDENT_MVC_CRUD_8.Web.csproj|solutionrelative:student_mvc_crud_8.web\\views\\students\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73C4C42A-242A-4B6D-9D0F-1F8D9DF79FE5}|STUDENT_MVC_CRUD_8.Web\\STUDENT_MVC_CRUD_8.Web.csproj|d:\\miscellaneous\\aspdotnetprojects\\student_mvc_crud_8\\student_mvc_crud_8.web\\models\\addstudentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73C4C42A-242A-4B6D-9D0F-1F8D9DF79FE5}|STUDENT_MVC_CRUD_8.Web\\STUDENT_MVC_CRUD_8.Web.csproj|solutionrelative:student_mvc_crud_8.web\\models\\addstudentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73C4C42A-242A-4B6D-9D0F-1F8D9DF79FE5}|STUDENT_MVC_CRUD_8.Web\\STUDENT_MVC_CRUD_8.Web.csproj|d:\\miscellaneous\\aspdotnetprojects\\student_mvc_crud_8\\student_mvc_crud_8.web\\migrations\\20250304064454_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73C4C42A-242A-4B6D-9D0F-1F8D9DF79FE5}|STUDENT_MVC_CRUD_8.Web\\STUDENT_MVC_CRUD_8.Web.csproj|solutionrelative:student_mvc_crud_8.web\\migrations\\20250304064454_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73C4C42A-242A-4B6D-9D0F-1F8D9DF79FE5}|STUDENT_MVC_CRUD_8.Web\\STUDENT_MVC_CRUD_8.Web.csproj|d:\\miscellaneous\\aspdotnetprojects\\student_mvc_crud_8\\student_mvc_crud_8.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73C4C42A-242A-4B6D-9D0F-1F8D9DF79FE5}|STUDENT_MVC_CRUD_8.Web\\STUDENT_MVC_CRUD_8.Web.csproj|solutionrelative:student_mvc_crud_8.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73C4C42A-242A-4B6D-9D0F-1F8D9DF79FE5}|STUDENT_MVC_CRUD_8.Web\\STUDENT_MVC_CRUD_8.Web.csproj|d:\\miscellaneous\\aspdotnetprojects\\student_mvc_crud_8\\student_mvc_crud_8.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{73C4C42A-242A-4B6D-9D0F-1F8D9DF79FE5}|STUDENT_MVC_CRUD_8.Web\\STUDENT_MVC_CRUD_8.Web.csproj|solutionrelative:student_mvc_crud_8.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73C4C42A-242A-4B6D-9D0F-1F8D9DF79FE5}|STUDENT_MVC_CRUD_8.Web\\STUDENT_MVC_CRUD_8.Web.csproj|d:\\miscellaneous\\aspdotnetprojects\\student_mvc_crud_8\\student_mvc_crud_8.web\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73C4C42A-242A-4B6D-9D0F-1F8D9DF79FE5}|STUDENT_MVC_CRUD_8.Web\\STUDENT_MVC_CRUD_8.Web.csproj|solutionrelative:student_mvc_crud_8.web\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73C4C42A-242A-4B6D-9D0F-1F8D9DF79FE5}|STUDENT_MVC_CRUD_8.Web\\STUDENT_MVC_CRUD_8.Web.csproj|d:\\miscellaneous\\aspdotnetprojects\\student_mvc_crud_8\\student_mvc_crud_8.web\\student_mvc_crud_8.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{73C4C42A-242A-4B6D-9D0F-1F8D9DF79FE5}|STUDENT_MVC_CRUD_8.Web\\STUDENT_MVC_CRUD_8.Web.csproj|solutionrelative:student_mvc_crud_8.web\\student_mvc_crud_8.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73C4C42A-242A-4B6D-9D0F-1F8D9DF79FE5}|STUDENT_MVC_CRUD_8.Web\\STUDENT_MVC_CRUD_8.Web.csproj|d:\\miscellaneous\\aspdotnetprojects\\student_mvc_crud_8\\student_mvc_crud_8.web\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73C4C42A-242A-4B6D-9D0F-1F8D9DF79FE5}|STUDENT_MVC_CRUD_8.Web\\STUDENT_MVC_CRUD_8.Web.csproj|solutionrelative:student_mvc_crud_8.web\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddStudentViewModel.cs",
+              "DocumentMoniker": "D:\\Miscellaneous\\ASPDOTNETPROJECTS\\STUDENT_MVC_CRUD_8\\STUDENT_MVC_CRUD_8.Web\\Models\\AddStudentViewModel.cs",
+              "RelativeDocumentMoniker": "STUDENT_MVC_CRUD_8.Web\\Models\\AddStudentViewModel.cs",
+              "ToolTip": "D:\\Miscellaneous\\ASPDOTNETPROJECTS\\STUDENT_MVC_CRUD_8\\STUDENT_MVC_CRUD_8.Web\\Models\\AddStudentViewModel.cs",
+              "RelativeToolTip": "STUDENT_MVC_CRUD_8.Web\\Models\\AddStudentViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T03:45:24.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "D:\\Miscellaneous\\ASPDOTNETPROJECTS\\STUDENT_MVC_CRUD_8\\STUDENT_MVC_CRUD_8.Web\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "STUDENT_MVC_CRUD_8.Web\\Controllers\\StudentsController.cs",
+              "ToolTip": "D:\\Miscellaneous\\ASPDOTNETPROJECTS\\STUDENT_MVC_CRUD_8\\STUDENT_MVC_CRUD_8.Web\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "STUDENT_MVC_CRUD_8.Web\\Controllers\\StudentsController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T03:13:23.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\Miscellaneous\\ASPDOTNETPROJECTS\\STUDENT_MVC_CRUD_8\\STUDENT_MVC_CRUD_8.Web\\Views\\Students\\Add.cshtml",
+              "RelativeDocumentMoniker": "STUDENT_MVC_CRUD_8.Web\\Views\\Students\\Add.cshtml",
+              "ToolTip": "D:\\Miscellaneous\\ASPDOTNETPROJECTS\\STUDENT_MVC_CRUD_8\\STUDENT_MVC_CRUD_8.Web\\Views\\Students\\Add.cshtml",
+              "RelativeToolTip": "STUDENT_MVC_CRUD_8.Web\\Views\\Students\\Add.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACEAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T03:14:21.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250304064454_Initial Migration.cs",
+              "DocumentMoniker": "D:\\Miscellaneous\\ASPDOTNETPROJECTS\\STUDENT_MVC_CRUD_8\\STUDENT_MVC_CRUD_8.Web\\Migrations\\20250304064454_Initial Migration.cs",
+              "RelativeDocumentMoniker": "STUDENT_MVC_CRUD_8.Web\\Migrations\\20250304064454_Initial Migration.cs",
+              "ToolTip": "D:\\Miscellaneous\\ASPDOTNETPROJECTS\\STUDENT_MVC_CRUD_8\\STUDENT_MVC_CRUD_8.Web\\Migrations\\20250304064454_Initial Migration.cs",
+              "RelativeToolTip": "STUDENT_MVC_CRUD_8.Web\\Migrations\\20250304064454_Initial Migration.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwCAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T06:44:55.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Miscellaneous\\ASPDOTNETPROJECTS\\STUDENT_MVC_CRUD_8\\STUDENT_MVC_CRUD_8.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "STUDENT_MVC_CRUD_8.Web\\appsettings.json",
+              "ToolTip": "D:\\Miscellaneous\\ASPDOTNETPROJECTS\\STUDENT_MVC_CRUD_8\\STUDENT_MVC_CRUD_8.Web\\appsettings.json",
+              "RelativeToolTip": "STUDENT_MVC_CRUD_8.Web\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-04T06:41:26.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Miscellaneous\\ASPDOTNETPROJECTS\\STUDENT_MVC_CRUD_8\\STUDENT_MVC_CRUD_8.Web\\Program.cs",
+              "RelativeDocumentMoniker": "STUDENT_MVC_CRUD_8.Web\\Program.cs",
+              "ToolTip": "D:\\Miscellaneous\\ASPDOTNETPROJECTS\\STUDENT_MVC_CRUD_8\\STUDENT_MVC_CRUD_8.Web\\Program.cs",
+              "RelativeToolTip": "STUDENT_MVC_CRUD_8.Web\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T06:40:07.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Miscellaneous\\ASPDOTNETPROJECTS\\STUDENT_MVC_CRUD_8\\STUDENT_MVC_CRUD_8.Web\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "STUDENT_MVC_CRUD_8.Web\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Miscellaneous\\ASPDOTNETPROJECTS\\STUDENT_MVC_CRUD_8\\STUDENT_MVC_CRUD_8.Web\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "STUDENT_MVC_CRUD_8.Web\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T06:33:50.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "STUDENT_MVC_CRUD_8.Web.csproj",
+              "DocumentMoniker": "D:\\Miscellaneous\\ASPDOTNETPROJECTS\\STUDENT_MVC_CRUD_8\\STUDENT_MVC_CRUD_8.Web\\STUDENT_MVC_CRUD_8.Web.csproj",
+              "RelativeDocumentMoniker": "STUDENT_MVC_CRUD_8.Web\\STUDENT_MVC_CRUD_8.Web.csproj",
+              "ToolTip": "D:\\Miscellaneous\\ASPDOTNETPROJECTS\\STUDENT_MVC_CRUD_8\\STUDENT_MVC_CRUD_8.Web\\STUDENT_MVC_CRUD_8.Web.csproj",
+              "RelativeToolTip": "STUDENT_MVC_CRUD_8.Web\\STUDENT_MVC_CRUD_8.Web.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-04T06:31:30.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\Miscellaneous\\ASPDOTNETPROJECTS\\STUDENT_MVC_CRUD_8\\STUDENT_MVC_CRUD_8.Web\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "STUDENT_MVC_CRUD_8.Web\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\Miscellaneous\\ASPDOTNETPROJECTS\\STUDENT_MVC_CRUD_8\\STUDENT_MVC_CRUD_8.Web\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "STUDENT_MVC_CRUD_8.Web\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-04T06:25:04.066Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
